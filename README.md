@@ -1,3 +1,3 @@
 # profile
 
-This is a profile card that I have made for e cell of my college 
+This is a profile card that I have made for the E-cell of my college 
